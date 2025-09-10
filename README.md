@@ -1,6 +1,6 @@
-# COMP4405_G3_Project
+# AI Voice Detection Aaplication
 
-This is COMP4405/5405 Project repository for "Deepvoice Detection" project.
+This is Project repository for "Deepvoice Detection" project.
 
 ## 1. Requirement
 
